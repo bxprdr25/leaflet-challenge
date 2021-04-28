@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 #Ignore certain JS files
-*.js
-!C:\Users\bxprd\Data Analytics Bootcamp\Git_Repos\leaflet-challenge\Leaflet-Step-1\static\js\logic\logic.js
+*/config.js
+*/usgs2.js
 
 
 # Distribution / packaging
