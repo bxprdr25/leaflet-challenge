@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 #Ignore certain JS files
-*config.js
-*usgs2.js
+*.js
+!logic/logic.js
 
 
 # Distribution / packaging
