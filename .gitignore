@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignore certain JS files
+*.js
+C:/Users/bxprd/Data Analytics Bootcamp/Git_Repos/leaflet-challenge/Leaflet-Step-1/static/js/config.js
+C:/Users/bxprd/Data Analytics Bootcamp/Git_Repos/leaflet-challenge/Leaflet-Step-1/static/js/usgs.js
+
 # Distribution / packaging
 .Python
 build/
@@ -36,6 +41,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+usgsgeojason-1.txt
 
 # Unit test / coverage reports
 htmlcov/
@@ -124,6 +130,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+usgs-1.json
 
 # Pyre type checker
 .pyre/
